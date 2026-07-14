@@ -195,3 +195,4 @@ dependencies {
     coreLibraryDesugaring(libs.desugar.jdk.libs)
 }
 implementation(project(":AndroidLibXrayLite"))
+implementation(files("libs/libv2ray.aar"))
